@@ -2,6 +2,8 @@
 
 # Back@Ya ![Logo](https://dl.dropboxusercontent.com/u/2670385/Web/asat-logo.png)
 
+## Description:
+
 ### Install Back@Ya to allow your agents to rate your customers
 
 ### Rate customers for any purpose you choose:
@@ -11,7 +13,7 @@
  - Build custom workflows around customers with low or high agent satisfaction scores
  - Identify evangelists through high agent satisfaction scores
 
-### Demo
+## Screenshot(s):
 
 Unrated view, see average of other agents:<br/>
 ![I18n](https://dl.dropboxusercontent.com/u/2670385/Web/asat-unrated.png)
